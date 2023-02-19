@@ -1,0 +1,26 @@
+package com.linked_list;
+
+
+class Link{
+	public int iData; //key
+	public double dData; //data item
+	public Link next; //next link in list
+	
+	
+	//constructor
+	public Link(int id ,double dd){
+		iData=id;
+		dData=dd;
+	}
+	
+	
+}
+
+
+
+
+public class Simple_LinkList {
+	public static void main(String[] args) {
+		
+	}
+}

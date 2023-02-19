@@ -1,0 +1,27 @@
+package com.linked_list;
+
+
+class Link_Sim{
+	public int iData;
+	public double dData;
+	public Link next;
+	
+	public Link_Sim(int id,double dd){
+		iData=id;
+		dData=dd;
+	}
+	
+	public void displayLink(){
+		System.out.println("{ "+iData+" , "+dData+" }");
+	}
+	
+}
+
+
+
+
+public class Simple_LinkList_Find_Delete {
+	public static void main(String[] args) {
+		
+	}
+}

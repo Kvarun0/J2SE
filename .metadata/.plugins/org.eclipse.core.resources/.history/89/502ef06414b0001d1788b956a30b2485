@@ -1,0 +1,10 @@
+package com.linked_list.double_ended_list;
+
+
+
+
+public class Double_ended {
+	public static void main(String[] args) {
+		
+	}
+}

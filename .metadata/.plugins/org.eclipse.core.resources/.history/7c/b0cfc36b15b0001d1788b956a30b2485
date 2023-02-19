@@ -1,0 +1,21 @@
+package com.linked_list.double_ended_list;
+
+class Link{
+	public long dData;
+	public Link next; 
+	
+	public Link(long d){
+		dData=d;
+	}
+	
+	public void displayLink(){
+		System.out.println(dData+" ");
+	}
+}
+
+
+public class Double_ended {
+	public static void main(String[] args) {
+		
+	}
+}
